@@ -1,0 +1,25 @@
+{
+  "name": "logic-box",
+  "version": "1.0.0",
+  "description": "a web based logic simulator",
+  "main": "build/client.html",
+  "scripts": {
+    "test": "node test.js"
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcthird128/logic-box.git"
+  },
+  "keywords": [
+    "simulator",
+    "logic",
+    "web"
+  ],
+  "author": "Marc Platt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcthird128/logic-box/issues"
+  },
+  "homepage": "https://github.com/marcthird128/logic-box#readme"
+}
