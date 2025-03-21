@@ -45,7 +45,7 @@ function generateBugReport(message, error) {
 				</div>
 			</div>
 		</div>
-	</div>	
+	</div>
 	`
 }
 
