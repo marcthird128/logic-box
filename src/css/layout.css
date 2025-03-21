@@ -1,0 +1,17 @@
+/* Logic Box
+ * layout.css
+ * 
+ * Determines the layout and size of components,
+ * seperated from the style of componenets 
+ * because it never changes */
+ 
+html, body {
+	font-family: sans-serif;
+}
+
+.wrapper {
+	position:absolute;
+	left:0px;
+	right:0px;
+	top:0px;
+	bottom:0px;
